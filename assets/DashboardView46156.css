@@ -1,0 +1,1 @@
+.dashboard{height:calc(100vh - 6.55rem);margin-top:-1rem!important;overflow:hidden}.dashboard .wrapper-table{height:calc(66% - 17rem);min-height:40vh}.dashboard .wrapper-table .p-datatable-wrapper{min-height:25vh}.dashboard .today-wrapper{min-width:7rem}@media screen and (max-height: 700px){.dashboard{overflow-y:scroll}}
